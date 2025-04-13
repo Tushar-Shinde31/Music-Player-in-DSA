@@ -18,10 +18,6 @@ This project is a C++ music player that leverages **Data Structures and Algorith
 - **File I/O**: Used for saving and loading playlists
 - **Sorting Algorithms**: For playlist order management
 
-## 📝 Installation
-
-### Clone the repository:
-
 ##  🖥️ Usage
 ➕ Add Songs: Add new songs to the playlist.
 ❌ Delete Songs: Remove songs from the playlist.
